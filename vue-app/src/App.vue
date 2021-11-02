@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img width="420" height="280" alt="Vue logo" src="./assets/socialwiz.png">
+  <HelloWorld msg="Welcome to SocialWiz Static Vue.js App"/>
 </template>
 
 <script>
